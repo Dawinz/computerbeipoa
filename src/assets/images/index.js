@@ -1,4 +1,4 @@
-import logo from "./computerbeipoa.png";
+import logo from "./narita.jpg";
 import logoLight from "./logoLight.png";
 import bannerImgOne from "./banner/bannerImgOne.webp";
 import bannerImgTwo from "./banner/bannerImgTwo.webp";
